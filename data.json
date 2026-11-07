@@ -1,0 +1,202 @@
+{
+    "personal": {
+        "name": "Soumya",
+        "role": "BCA Student | Aspiring Software Developer",
+        "profileImage": "https://t4.ftcdn.net/jpg/11/57/72/95/360_F_1157729568_bzWI9dV4PoA1URwoIwgqeXO50BhQ3kfR.jpg",
+        "introduction": "Hello! I am a passionate BCA first-year student who loves learning programming, developing websites and exploring new technologies.",
+        "careerGoal": "My goal is to become a skilled software developer and build innovative real-world applications.",
+        "email": "soumya.hosur2020@gmail.com",
+        "phone": "+91 8088959690",
+        "location": "India",
+        "resume": "assets/resume.pdf"
+    },
+
+    "navigation": [
+        
+        {
+            "name": "Home",
+            "url": "#home"
+        },
+        {
+            "name": "About",
+            "url": "#about"
+        },
+        {
+            "name": "Skills",
+            "url": "#skills"
+        },
+        {
+            "name": "Projects",
+            "url": "#projects"
+        },
+        {
+            "name": "Education",
+            "url": "#education"
+        },
+        {
+            "name": "Certifications",
+            "url": "#certifications"
+        },
+        {
+            "name": "Contact",
+            "url": "#contact"
+        }
+    ],
+
+    "about": {
+        "description": "I am a dedicated BCA first-year student interested in software development, web technologies and problem-solving. I enjoy learning new programming languages and creating creative digital solutions. I believe in continuous learning, teamwork and improving my technical knowledge through practical projects."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi bi-filetype-html",
+            "level": 90
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi bi-filetype-css",
+            "level": 85
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi bi-filetype-js",
+            "level": 70
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi bi-bootstrap",
+            "level": 80
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi bi-code-slash",
+            "level": 75
+        },
+        {
+            "name": "C++",
+            "icon": "bi bi-braces",
+            "level": 70
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "FoodieHub",
+            "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=800",
+            "description": "A modern and responsive food website where users can explore different food categories and discover delicious meals.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+
+        {
+            "name": "ShopZone",
+            "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800",
+            "description": "A responsive e-commerce website featuring product cards, shopping cart functionality and dynamic product information using JSON.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "JSON"
+            ],
+            "link": "https://github.com/"
+        },
+
+        {
+            "name": "EcoQuest",
+            "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800",
+            "description": "A gamified environmental education platform designed to encourage students to learn about sustainability through interactive activities and quizzes.",
+            "technologies": [
+                "React.js",
+                "CSS",
+                "JavaScript",
+                "Appwrite"
+            ],
+            "link": "https://github.com/"
+        },
+
+        {
+            "name": "Student Calculator",
+            "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800",
+            "description": "A useful calculator application designed to help students perform mathematical calculations and manage academic scores.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "ABC Degree College",
+            "year": "2026 - Present",
+            "semester": "1st Semester",
+            "description": "Currently pursuing BCA with an interest in programming, computer applications and software development."
+        },
+
+        {
+            "course": "Pre-University Course (PUC)",
+            "college": "ABC PU College",
+            "year": "2024 - 2026",
+            "semester": "Completed",
+            "description": "Completed Pre-University education with Science stream."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "Introduction to Web Development",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "icon": "bi-award"
+        },
+
+        {
+            "name": "C Programming Fundamentals",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "icon": "bi-patch-check"
+        },
+
+        {
+            "name": "Introduction to Java",
+            "organization": "Online Learning Platform",
+            "year": "2026",
+            "icon": "bi-mortarboard"
+        }
+    ],
+
+    "socialLinks": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/",
+            "icon": "bi bi-github"
+        },
+
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/",
+            "icon": "bi bi-linkedin"
+        },
+
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/",
+            "icon": "bi bi-instagram"
+        },
+
+        {
+            "name": "Email",
+            "url": "mailto:aarav@example.com",
+            "icon": "bi bi-envelope-fill"
+        }
+    ]
+}
